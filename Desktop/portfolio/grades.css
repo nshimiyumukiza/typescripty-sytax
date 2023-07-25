@@ -1,0 +1,9 @@
+.grades-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: blanchedalmond;
+    height: 0 auto;
+    width: 0 auto;
+}

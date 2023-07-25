@@ -1,0 +1,47 @@
+.fields-container{
+   /* background-color: aquamarine; */
+   
+}
+.label-container{
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+gap: .6rem;
+width: fit-content;
+padding: 1rem;
+margin-left: 30%;
+border: 1px solid gray ;
+background-color: beige;
+}
+marquee{
+    font-size: 2rem;
+}
+button{
+    padding: 1rem;
+    background-color: rgb(100, 58, 58);
+    border: 1px solid grey;
+    border-radius: 1rem;
+    color: rgb(103, 103, 177);
+    font-size: 20px;
+}
+.online{
+    text-align: center;
+    margin-right: 8rem;
+    text-decoration: underline;
+}
+.dont{
+    text-align: center;
+    margin-right: 8rem;
+    color: rgb(77, 77, 185);
+}
+.dont a{
+    text-decoration: none;
+    color: rgb(84, 84, 245);
+    font-size: 20px;
+    border: 1px solid grey;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: rgb(91, 133, 91);
+    box-shadow: 1px solid black;
+}

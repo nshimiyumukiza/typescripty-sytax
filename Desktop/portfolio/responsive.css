@@ -1,0 +1,15 @@
+@media(max-width:756px) {
+   .find-container{ 
+display: flex;
+flex-direction: column;
+background-color: red;
+   }
+   .ourjobs{
+      display: flex;
+      flex-direction: column;
+   }
+   .pic{
+      display: flex;
+      flex-direction: column;
+   }
+}

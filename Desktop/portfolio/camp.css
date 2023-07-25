@@ -1,0 +1,148 @@
+.camp-container{
+    background-color: brown;
+}
+.completeness{
+   
+    display: flex;
+    justify-content: space-between;
+    height: 50vh;
+    padding: 2rem;
+
+}
+.login-page{
+    /* background-color: white; */
+    margin-right: 25px;
+    font-size: 20px;
+    color: grey;
+}
+.login{
+    color: grey;
+    text-decoration: underline;
+}
+.index-page{
+  
+    margin-right: 25px;
+    font-size: 18px;
+    color: grey;
+}
+.index{
+    color: grey;
+    text-decoration: underline;
+}
+.logout-page{
+  
+    margin-right: 25px;
+    font-size: 20px;
+    color: grey;
+}
+.logout{
+    color: grey;
+    text-decoration: underline; 
+}
+.languages-container{
+    background-color: brown;
+    padding: 2rem;
+    height: 100;
+}
+.html{
+   background-color: rgb(92, 70, 112);
+    width: 100%;
+    height: 100%;
+}
+.run{
+    /* background-color: blue; */
+    /* display: flex;
+    justify-content: space-between; */
+    display: grid;
+    grid-template-columns: repeat(2,2fr);
+    gap: 2rem;
+    height: 100%;
+  
+}
+.html img{
+    width: 25%;
+    height: 30%;
+    margin-top: 2rem;
+    margin-left: 35%;
+}
+.php-container img{
+    width: 25%;
+    height: 30%;
+    margin-top: .2rem;
+    margin-left: 35%;
+}
+.mysqli-container img{
+    width: 25%;
+    height: 30%;
+    /* margin-top: 2rem; */
+    margin-left: 35%; 
+}
+.css-container img{
+    width: 25%;
+    height: 25%;
+    /* margin-top: 2rem; */
+    margin-left: 35%;
+}
+.php-container{
+    background-color: rgb(124, 104, 143);
+}
+.mysqli-container {
+    background-color: rgb(113, 99, 126);
+}
+.css-container{
+    background-color: rgb(82, 69, 95);  
+}
+.html p{
+    /* background-color: red; */
+    font-size: 20px;
+    margin: 2rem;
+}
+.html h3{
+    text-align: center;
+    text-decoration: underline;
+}
+.php-container p{
+    /* font-size: 20px; */
+    margin: 2rem;
+}
+.php-container h3{
+    text-align: center;
+    text-decoration: underline;
+}
+.mysqli-container p{
+    font-size: 20px;
+    margin: 2rem;
+}
+.mysqli-container h3{
+    text-align: center;
+    text-decoration: underline;  
+}
+.css-container p{
+    margin: 2rem;
+}
+.css-container h3{
+    text-align: center;
+    text-decoration: underline;  
+}
+.lang{
+    text-align: center;
+    text-decoration: underline; 
+    font-size: 70px;
+}
+.salute{
+    /* background-color: red; */
+    text-align: center;
+    /* text-decoration: underline;  */
+    font-size: 20px;
+    /* margin-top: 2rem; */
+}
+.namee{
+    color:rgb(88, 88, 199);
+}
+.salute p{
+    font-size: 20px;
+}
+.same{
+    text-decoration: underline;
+    font-size: 30px;
+}

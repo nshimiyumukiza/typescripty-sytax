@@ -1,0 +1,38 @@
+.form{
+    display: flex;
+    flex-direction: flex-end;
+}
+.form h1{
+   padding: .2rem 2rem;
+    
+}
+.form1{
+   background-color: antiquewhite;
+   padding: .2rem 2rem;
+}
+
+.buton{
+    padding: 2rem 2rem;
+    display: flex;
+    /*  */
+    gap: 2rem;
+}
+.numbers{
+    display: flex;
+    gap: 2rem;
+}
+.hed{
+    display: flex;
+   gap: .2rem;
+}
+.hed h2{
+    margin: 2px .2rem;
+}
+.btn{
+    padding: .2rem 2rem;
+    font-size: 1rem;
+margin-left: 10rem;
+color: rgb(85, 85, 185);
+border: 1px solid grey;
+border-radius: .5rem;
+}

@@ -1,0 +1,16 @@
+@media(max-width:756px) {
+   .find-container{ 
+display: flex;
+flex-direction: column;
+background-color: red;
+width: 500px;
+   }
+  .portifolio-container{
+      display: flex;
+      flex-direction: column;
+   }
+   .about-container{
+      display: flex;
+      flex-direction: column;
+   }
+}
